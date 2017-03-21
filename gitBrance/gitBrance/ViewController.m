@@ -18,6 +18,15 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"what are you ");
+    NSLog(@"de,m");
+    NSLog(@"branch");
+    NSLog(@"master branch");
+    NSLog(@"mster abouut branch");
+    
+    NSLog(@"11212321");
+    /**
+     branch
+     */
 }
 
 
